@@ -46,7 +46,7 @@ const Login = () => {
         <h4>Login</h4>
 
         <FormRow type="email" name="email" defaultValue=" " />
-        <FormRow type="password" name="password" defaultValue=" " />
+        <FormRow type="password" name="password" defaultValue="xxxxxxx" />
         <SubmitBtn formBtn />
         <br />
         <br />
